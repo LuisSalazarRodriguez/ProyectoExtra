@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: arial;
+  background: #F6F7FB;
+}
+
+@import "./atoms/atoms";
+@import "./molecules/molecules";
+@import "./organism/organism";
+
