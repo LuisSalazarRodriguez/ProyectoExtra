@@ -9,7 +9,7 @@ body {
 
 .wrapper {
   max-width: 980px;
-  margin: auto; }
+  margin: auto auto; }
 
 .btn {
   min-width: 120px;
@@ -50,6 +50,9 @@ body {
 .img {
   width: 100px;
   height: 100px; }
+  .img__sm {
+    width: 12px;
+    height: 12px; }
 
 .label {
   font-size: 14px;
